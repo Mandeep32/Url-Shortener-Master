@@ -21,11 +21,6 @@ The project is a [Django](https://www.djangoproject.com/start/) application. It 
 
 ## Getting started
 
-#### Clone the repository
-
-```bash
-git clone [https://gitlab.com/ehsanmqn/urlshortener](https://github.com/ehsanmqn/url-shortener)
-```
 
 #### Prepare the project
 ```bash
